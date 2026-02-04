@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on<br>» Data analytics capstone project using real-world NYC 311 service request data<br>» Building dashboards and KPIs with Tableau, Power BI, and Python<br>🤝 I’m looking to collaborate on<br>» Data analysis and visualization projects<br>» SQL / Python analytics workflows and dashboards<br><br>💬 Ask me about<br>» Data cleaning & validation<br>» SQL queries, Python (Pandas), dashboards, and KPIs<br>⚡ Fun fact<br>» I enjoy turning messy datasets into clear business insights 📊
+🚀 I’m currently working on<br>» Data analytics capstone project using real-world NYC 311 service request data<br>» Building dashboards and KPIs with Tableau, Power BI, and Python<br><br>🤝 I’m looking to collaborate on<br>» Data analysis and visualization projects<br>» SQL / Python analytics workflows and dashboards<br><br>💬 Ask me about<br>» Data cleaning & validation<br>» SQL queries, Python (Pandas), dashboards, and KPIs<br><br>⚡ Fun fact<br>» I enjoy turning messy datasets into clear business insights 📊
 
 
 ## 🌐 Socials:
